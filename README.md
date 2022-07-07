@@ -9,7 +9,7 @@ The dataset used for this review will need to be fit for machine learning, using
 
 Based on the algorithm results of an Elbow Curve plot, the four clusters were determined. The highest concentration of results are in class 1. 
 
-![Cluster Results]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_18_Unsupervised_Learning\Cryptocurrencies\Resources\Cluster_results.png")
+![Cluster Results](https://github.com/KathleenYager/Cryptocurrencies/blob/main/Resources/Cluster_results.png)
 
 ## Results: 
 
