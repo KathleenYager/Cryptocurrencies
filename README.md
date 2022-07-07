@@ -15,7 +15,7 @@ Based on the algorithm results of an Elbow Curve plot, the four clusters were de
 
 The report indicates four-clusters of cryptocurrency. Using the data included in the report, Accountability Accounting is able to establish currency to include in each class based on Total Coins Mined and Total Coin Supply. 
 
-![Mined and Supply Table]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_18_Unsupervised_Learning\Cryptocurrencies\Resources\Mined_Supply_Table.png")
+![Mined and Supply Table](https://github.com/KathleenYager/Cryptocurrencies/blob/main/Resources/Mined_Supply_Table.png)
 
 The image below shows the clusters by class. Class zero has the highest density of clustering. Class one appears as an outlier in this report. Classes two and three have some concentrations of coin mined and supply. 
 
