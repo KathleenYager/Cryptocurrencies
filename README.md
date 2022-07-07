@@ -19,7 +19,7 @@ The report indicates four-clusters of cryptocurrency. Using the data included in
 
 The image below shows the clusters by class. Class zero has the highest density of clustering. Class one appears as an outlier in this report. Classes two and three have some concentrations of coin mined and supply. 
 
-1[Mined and Supply Scatterplot]("C:\Users\kathl\OneDrive\Desktop\Bootcamp_Classwork\Projects\Module_18_Unsupervised_Learning\Cryptocurrencies\Resources\bokeh_plot.png")
+![Mined and Supply Scatterplot](https://github.com/KathleenYager/Cryptocurrencies/blob/main/Resources/bokeh_plot.png)
 
 
 This information will help the bank gain insight into adding cryptocurrency services for their customers.   
