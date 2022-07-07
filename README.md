@@ -7,9 +7,11 @@ The client, Accountability Accounting, a prominent investment bank, is intereste
 ## Method: 
 The dataset used for this review will need to be fit for machine learning, using unsupervised learning models. Using Principal Components (PCA) and K-Means models, the data was classed into groups and plotted in a 3-D Scatter Display. 
 
-Based on the algorithm results of an Elbow Curve plot, the four clusters were determined. The highest concentration of results are in class 1. 
+Based on the algorithm results of an Elbow Curve plot, the four clusters were determined. 
 
 ![Cluster Results](https://github.com/KathleenYager/Cryptocurrencies/blob/main/Resources/Cluster_results.png)
+
+The plot indicates that the highest concentration of currency is in cluster 1. 
 
 ## Results: 
 
